@@ -18,4 +18,4 @@ def move(board, input, character = "X")
 end
 
 
-board = [" ", " ", " ", " ", " " , " ", " ", " ", " "]
+#board = [" ", " ", " ", " ", " " , " ", " ", " ", " "]
