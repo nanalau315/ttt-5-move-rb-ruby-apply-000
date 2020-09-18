@@ -16,4 +16,3 @@ input_to_index(input)
 
 move
 
-puts "Welcome to Tic Tac Toe!"
