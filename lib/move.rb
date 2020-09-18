@@ -15,7 +15,7 @@ end
 
 
 
-def move(board, index, character = X)
+def move(board, index, character = "X")
   
   
   
